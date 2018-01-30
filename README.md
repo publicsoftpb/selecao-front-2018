@@ -28,7 +28,7 @@ Elaborar um projeto prático utilizando Angular na versão 4 (quatro) em diante,
 3.	Um formulário de cadastro para entidades pessoa física e jurídica
 4.  Todos os itens devem fazer parte de um projeto navegavel, ou seja, é possível chegar a cada item utilizando hiper-links. 
 
-#### Campos dos formulários 
+#### 1- Campos dos formulários 
 
 ##### (Pessoa)
 A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuário escolher o formulário (Física, Jurídica), todos os campos serão obrigatórios, segue abaixo uma tabela com os campos, tipos e máscaras que irão conter nestes formulários:
@@ -69,5 +69,11 @@ A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuá
 |E-mail         |Email    |Não possui               |
 
 
-
+### 2 - Dashboard
+•	A tela do dashboard, deverá ter um header (topo) fixado, com o nome do projeto centralizado, acompanhado com um ícone de um menu na lateral esquerda e um ícone de logout na lateral direita; 
+•No conteúdo central, deverá conter 2 (dois) gráficos: linha e barra, com valores estáticos: mêses (Janeiro a Maio) e valores; 
+•Por último, deverá conter um footer (rodapé) fixado, com o seguinte nome: “© 2018 PublicSoft - Todos os Direitos Reservados”.
+•	Segue imagem abaixo meramente ilustrativa do dashboard:
+•	Ações ao clicarem nos ícones:
+1.	Menu: Habilita menu lateral, contendo os itens: Dashboard, 
 
