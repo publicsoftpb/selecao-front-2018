@@ -28,25 +28,46 @@ Elaborar um projeto prático utilizando Angular na versão 4 (quatro) em diante,
 3.	Um formulário de cadastro para entidades pessoa física e jurídica
 4.  Todos os itens devem fazer parte de um projeto navegavel, ou seja, é possível chegar a cada item utilizando hiper-links. 
 
+#### Campos dos formulários 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+##### (Pessoa)
+A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuário escolher o formulário (Física, Jurídica), todos os campos serão obrigatórios, segue abaixo uma tabela com os campos, tipos e máscaras que irão conter nestes formulários:
+
+|  Campo        |	Tipo	  |  Máscara				        |
+|---------------|---------|-------------------------|
+|Nome           |Text     |Somente caracteres Aa-Zz	|
+|Data Nascimento|Date	    |99/99/9999	              |
+|Cpf            |Text     |999.999.999-99           |
+|Rg             |Text     |Não possui               |
+|Cep            |Text     |99999-999                |
+|Logradouro     |Text     |Não possui               |
+|Número         |Text     |Não possui               |
+|Bairro         |Text     |Não possui               |
+|Cidade         |Text     |Não possui               |
+|Estado         |Select   |Não possui               |
+|Fone           |Text|(99)| 99999-9999              |
+|E-mail         |Email    |Não possui               |
 
 
-|  Campo  |	Tipo	|  Máscara					|
-|---------------------------------------------	|
-|Nome|Text|Somente caracteres Aa-Zz	|
-|Data Nascimento|Date	|	99/99/9999	|
-|Cpf|Text|999.999.999-99|
-|Rg|Text|Não possui|
-|Cep|Text|99999-999|
-|Logradouro|Text|Não possui|
-|Número|Text|Não possui|
-|Bairro|Text|Não possui|
-|Cidade|Text|Não possui|
-|Estado|Select|Não possui|
-|Fone|Text|(99) 99999-9999|
-|E-mail|Email|Não possui|
+
+##### (Jurídica)
+A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuário escolher o formulário (Física, Jurídica), todos os campos serão obrigatórios, segue abaixo uma tabela com os campos, tipos e máscaras que irão conter nestes formulários:
+
+|  Campo        |	Tipo	  |  Máscara				        |
+|---------------|---------|-------------------------|
+|CNPJ           |Text     |99.999.999/9999-99       |
+|Razão Social   |Text     |Não possui               |
+|Nome Fantasia  |Text     |Não possui               |
+|Insc. Estadual |Text     |Não possui               |
+|Cep            |Text     |99999-999                |
+|Logradouro     |Text     |Não possui               |
+|Número         |Text     |Não possui               |
+|Bairro         |Text     |Não possui               |
+|Cidade         |Text     |Não possui               |
+|Estado         |Select   |Não possui               |
+|Fone           |Text|(99)| 99999-9999              |
+|E-mail         |Email    |Não possui               |
+
+
+
 
