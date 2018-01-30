@@ -29,6 +29,10 @@ Elaborar um projeto prático utilizando Angular na versão 4 (quatro) em diante,
 4.  Todos os itens devem fazer parte de um projeto navegavel, ou seja, é possível chegar a cada item utilizando hiper-links. 
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 |  Campo  |	Tipo	|  Máscara					|
