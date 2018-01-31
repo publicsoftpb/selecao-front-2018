@@ -38,7 +38,14 @@ Ps:. Lembre-se que a PublicSoft trabalha, em sua maioria com clientes do setor p
 #### 1- Formulário de Login
 a - Segue exemplo ilustrativo do login
 
-#### 2- Campos dos formulários 
+![loginForm](https://github.com/publicsoftpb/selecao-front-2018/blob/master/login.png) Figura - 1
+
+#### 2- DashBoard
+
+![DashBoard](https://github.com/publicsoftpb/selecao-front-2018/blob/master/dashboard.png) Figura - 2
+
+
+#### 3- Campos dos formulários 
 
 ##### (Pessoa)
 A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuário escolher o formulário (Física, Jurídica), todos os campos serão obrigatórios, segue abaixo uma tabela com os campos, tipos e máscaras que irão conter nestes formulários:
@@ -78,10 +85,11 @@ A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuá
 |Fone           |Text|(99)| 99999-9999              |
 |E-mail         |Email    |Não possui               |
 
-**•** Utilize a Figura 2, como exemplo meramente explicativo para o formulário de pessoa:
+**•** Utilize a Figura 3, como exemplo meramente explicativo para o formulário de pessoa:
 
-![FormPessoa](https://github.com/publicsoftpb/selecao-front-2018/blob/master/formPessoa.png)
-Figura 2
+![FormPessoa](https://github.com/publicsoftpb/selecao-front-2018/blob/master/formPessoa.png) Figura - 3
+
+
 
 
 **•**	Ao selecionar a opção pessoa física, irá carregar o formulário com os campos de pessoa física, e ao selecionar opção pessoa jurídica, irá carregar o formulário com os campos de pessoa jurídica. Quando clicar em salvar, mostrar uma mensagem que foi salvo com sucesso, lembrando que todos os campos deverão estar preenchidos.
@@ -99,10 +107,9 @@ Figura 2
 
 •	Ações ao clicarem nos ícones:
 
-1. **Menu:** Habilita menu lateral, contendo os itens: Dashboard, Cadastro com subMenu (Pessoa), a figura 3  meramente ilustrativa do menu;	
+1. **Menu:** Habilita menu lateral, contendo os itens: Dashboard, Cadastro com subMenu (Pessoa), a Figura 4  meramente ilustrativa do menu;	
 
-![submenu](https://github.com/publicsoftpb/selecao-front-2018/blob/master/subMenu.png)
-Figura 3
+![figura4](https://github.com/publicsoftpb/selecao-front-2018/blob/master/subMenu.png)Figura 3
 
 2. **Logout:** Redireciona para tela de Login.
 
