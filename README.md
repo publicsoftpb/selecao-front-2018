@@ -68,6 +68,10 @@ A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuá
 |Fone           |Text|(99)| 99999-9999              |
 |E-mail         |Email    |Não possui               |
 
+**•**	Segue imagem abaixo meramente ilustrativa do formulário de pessoa:
+
+**•**	Ao selecionar a opção pessoa física, irá carregar o formulário com os campos de pessoa física, e ao selecionar opção pessoa jurídica, irá carregar o formulário com os campos de pessoa jurídica. Quando clicar em salvar, mostrar uma mensagem que foi salvo com sucesso, lembrando que todos os campos deverão estar preenchidos.
+
 
 ### 2 - Dashboard
 •	A tela do dashboard, deverá ter um header (topo) fixado, com o nome do projeto centralizado, acompanhado com um ícone de um menu na lateral esquerda e um ícone de logout na lateral direita; 
@@ -76,5 +80,6 @@ A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuá
                                       **“© 2018 PublicSoft - Todos os Direitos Reservados”.**
 •	Segue imagem abaixo meramente ilustrativa do dashboard:
 •	Ações ao clicarem nos ícones:
-1.	Menu: Habilita menu lateral, contendo os itens: Dashboard, 
+1. **Menu:** Habilita menu lateral, contendo os itens: Dashboard, Cadastro com subMenu (Pessoa), segue imagem abaixo meramente ilustrativa do menu;	
+2. **Logout:** Redireciona para tela de Login.
 
