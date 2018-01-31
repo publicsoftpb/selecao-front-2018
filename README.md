@@ -70,6 +70,8 @@ A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuá
 
 **•** Utilize a Figura 2, como exemplo meramente explicativo para o formulário de pessoa:
 
+![Banana](https://github.com/publicsoftpb/selecao-front-2018/blob/master/formPessoa.png)
+
 
 **•**	Ao selecionar a opção pessoa física, irá carregar o formulário com os campos de pessoa física, e ao selecionar opção pessoa jurídica, irá carregar o formulário com os campos de pessoa jurídica. Quando clicar em salvar, mostrar uma mensagem que foi salvo com sucesso, lembrando que todos os campos deverão estar preenchidos.
 
