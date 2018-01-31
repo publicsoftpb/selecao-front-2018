@@ -17,7 +17,7 @@ O projeto tem como objetivo avalias as habilidades práticas dos candidatos, alg
 ## Questões básicas
 
 1.	Qual a diferença entre AOT(Ahead-of-time) e JIT(Just-in-time)?
-2.	Defina os Lifecycle Hooks e as suas responsabilidades?
+2.	Defina os Lifecycle Hooks e as suas responsabilidades.
 
 
 
