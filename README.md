@@ -71,8 +71,9 @@ A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuá
 
 ### 2 - Dashboard
 •	A tela do dashboard, deverá ter um header (topo) fixado, com o nome do projeto centralizado, acompanhado com um ícone de um menu na lateral esquerda e um ícone de logout na lateral direita; 
-•No conteúdo central, deverá conter 2 (dois) gráficos: linha e barra, com valores estáticos: mêses (Janeiro a Maio) e valores; 
-•Por último, deverá conter um footer (rodapé) fixado, com o seguinte nome: “© 2018 PublicSoft - Todos os Direitos Reservados”.
+• No conteúdo central, deverá conter 2 (dois) gráficos: linha e barra, com valores estáticos: mêses (Janeiro a Maio) e valores; 
+• Por último, deverá conter um footer (rodapé) fixado, com o seguinte nome: 
+                                      **“© 2018 PublicSoft - Todos os Direitos Reservados”.**
 •	Segue imagem abaixo meramente ilustrativa do dashboard:
 •	Ações ao clicarem nos ícones:
 1.	Menu: Habilita menu lateral, contendo os itens: Dashboard, 
