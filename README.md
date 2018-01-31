@@ -5,13 +5,13 @@ Autor: Martin Pfeifer
 
 Revisores:  Rodrigo Fujioka
 
-Equipe de Avaliação: José Filho, Ana Karla, KLedenilson , Walter Dias, Rodrigo Fujioka, Martin PFeifer
+Equipe de Avaliação: José Filho, Ana Karla, Kledenilson , Walter Dias, Rodrigo Fujioka, Martin Pfeifer
 
 Data:  07/02/2018
 
 
 ## Objetivos
-O projeto tem como objetivo avalias as habilidades práticas dos candidatos, alguns questionamentos são incluídos, não a título de cobrança, mas como um informativo de conceitos que serão necessários a oportunidade em aberto.
+O projeto tem como objetivo avaliar as habilidades práticas dos candidatos, alguns questionamentos são incluídos, não a título de cobrança, mas como um informativo de conceitos que serão necessários a oportunidade em aberto.
 
 
 ## Questões básicas
