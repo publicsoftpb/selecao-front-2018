@@ -1,7 +1,12 @@
 # Selecao-front-2018
 Seleção de programador Front-End Junior
 Autor: Martin Pfifer
-Revisores:  Rodrigo Fujioka, José Carlos Accyole, Walter Dias, Ana Karla Amador
+
+Revisores:  Rodrigo Fujioka
+
+Equipe de Avaliação: José Filho, Ana Karla, KLedenilson , Walter Dias, Rodrigo Fujioka, Martin P Fifer
+
+Data:  07/02/2018
 
 
 ## Objetivos
