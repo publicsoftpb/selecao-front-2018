@@ -101,7 +101,7 @@ Figura 2
 
 1. **Menu:** Habilita menu lateral, contendo os itens: Dashboard, Cadastro com subMenu (Pessoa), a figura 3  meramente ilustrativa do menu;	
 
-[submenu](https://github.com/publicsoftpb/selecao-front-2018/blob/master/subMenu.png)
+![submenu](https://github.com/publicsoftpb/selecao-front-2018/blob/master/subMenu.png)
 Figura 3
 
 2. **Logout:** Redireciona para tela de Login.
