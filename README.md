@@ -1,5 +1,7 @@
 # Selecao-front-2018
 Seleção de programador Front-End Junior
+Autor: Martin Pfifer
+Revisores:  Rodrigo Fujioka, José Carlos Accyole, Walter Dias, Ana Karla Amador
 
 
 ## Objetivos
@@ -40,9 +42,25 @@ a - Segue exemplo ilustrativo do login
 
 ![loginForm](https://github.com/publicsoftpb/selecao-front-2018/blob/master/login.png) Figura - 1
 
-#### 2- DashBoard
+### 2 - Dashboard
+•	A tela do dashboard, deverá ter um header (topo) fixado, com o nome do projeto centralizado, acompanhado com um ícone de um menu na lateral esquerda e um ícone de logout na lateral direita; 
 
-![DashBoard](https://github.com/publicsoftpb/selecao-front-2018/blob/master/dashboard.png) Figura - 2
+• No conteúdo central, deverá conter 2 (dois) gráficos: linha e barra, com valores estáticos: mêses (Janeiro a Maio) e valores; 
+
+• Por último, deverá conter um footer (rodapé) fixado, com o seguinte nome: 
+                                      **“© 2018 PublicSoft - Todos os Direitos Reservados”.**
+                                      
+•	Segue imagem abaixo meramente ilustrativa do dashboard:
+
+•	Ações ao clicarem nos ícones:
+
+1. **Menu:** Habilita menu lateral, contendo os itens: Dashboard, Cadastro com subMenu (Pessoa), a Figura 2 meramente ilustrativa do menu;	
+
+![figura2](https://github.com/publicsoftpb/selecao-front-2018/blob/master/subMenu.png)Figura 2
+
+2. **Logout:** Redireciona para tela de Login.
+
+![DashBoard](https://github.com/publicsoftpb/selecao-front-2018/blob/master/dashboard.png) Figura - 3
 
 
 #### 3- Campos dos formulários 
@@ -85,9 +103,9 @@ A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuá
 |Fone           |Text|(99)| 99999-9999              |
 |E-mail         |Email    |Não possui               |
 
-**•** Utilize a Figura 3, como exemplo meramente explicativo para o formulário de pessoa:
+**•** Utilize a Figura 4, como exemplo meramente explicativo para o formulário de pessoa:
 
-![FormPessoa](https://github.com/publicsoftpb/selecao-front-2018/blob/master/formPessoa.png) Figura - 3
+![FormPessoa](https://github.com/publicsoftpb/selecao-front-2018/blob/master/formPessoa.png) Figura - 4
 
 
 
@@ -95,21 +113,5 @@ A tela de cadastro de pessoa, deverá conter uma opção (radio button) do usuá
 **•**	Ao selecionar a opção pessoa física, irá carregar o formulário com os campos de pessoa física, e ao selecionar opção pessoa jurídica, irá carregar o formulário com os campos de pessoa jurídica. Quando clicar em salvar, mostrar uma mensagem que foi salvo com sucesso, lembrando que todos os campos deverão estar preenchidos.
 
 
-### 2 - Dashboard
-•	A tela do dashboard, deverá ter um header (topo) fixado, com o nome do projeto centralizado, acompanhado com um ícone de um menu na lateral esquerda e um ícone de logout na lateral direita; 
 
-• No conteúdo central, deverá conter 2 (dois) gráficos: linha e barra, com valores estáticos: mêses (Janeiro a Maio) e valores; 
-
-• Por último, deverá conter um footer (rodapé) fixado, com o seguinte nome: 
-                                      **“© 2018 PublicSoft - Todos os Direitos Reservados”.**
-                                      
-•	Segue imagem abaixo meramente ilustrativa do dashboard:
-
-•	Ações ao clicarem nos ícones:
-
-1. **Menu:** Habilita menu lateral, contendo os itens: Dashboard, Cadastro com subMenu (Pessoa), a Figura 4  meramente ilustrativa do menu;	
-
-![figura4](https://github.com/publicsoftpb/selecao-front-2018/blob/master/subMenu.png)Figura 3
-
-2. **Logout:** Redireciona para tela de Login.
 
